@@ -1,8 +1,4 @@
-#[rsschool-cv]()
-
----
-
-#Prudnikov Vladimir
+# Prudnikov Vladimir
 
 ---
 
